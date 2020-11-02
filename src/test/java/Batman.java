@@ -7,5 +7,7 @@ public class Batman {
 
         // i will chatch you Joker
         // yes will catch
+        // Batman is cool
+        // Batman is very cool
     }
 }
